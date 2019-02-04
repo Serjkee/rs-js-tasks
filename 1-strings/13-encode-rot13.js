@@ -13,6 +13,13 @@
  *   'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz' => 'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm'
  *
  */
+
+//////////////////////////
+/// Не сделал /////
+/////////////////////////
+
+
+
 function encodeToRot13(str) {
     throw new Error('Not implemented');
 }
