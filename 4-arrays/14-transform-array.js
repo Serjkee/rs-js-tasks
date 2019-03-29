@@ -25,6 +25,8 @@ function getMovingSum(arr) {
   console.log(newArr);
 }
 
+// Что-то не идет.
+
 getMovingSum([ 1, 1, 1, 1, 1 ]);
 getMovingSum([ 10, -10, 10, -10, 10 ]);
 getMovingSum([ 0, 0, 0, 0, 0]);
