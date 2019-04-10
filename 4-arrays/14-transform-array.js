@@ -26,6 +26,7 @@ function getMovingSum(arr) {
 }
 
 // Что-то не идет.
+// Таска на строке 223
 
 getMovingSum([ 1, 1, 1, 1, 1 ]);
 getMovingSum([ 10, -10, 10, -10, 10 ]);
